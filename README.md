@@ -1,6 +1,6 @@
 # TravelManagementSystem
 ## Project Overview
-The Travel Management System (TMS) is a comprehensive software solution designed to streamline and automate the process of planning, booking, and managing travel arrangements for individuals and organizations. By leveraging modern technology and intuitive user interfaces, the TMS aims to simplify the complexities of travel planning while providing users with greater flexibility, convenience, and control over their itineraries.
+The Travel Management System (TMS) is a comprehensive software solution designed to streamline and automate the process of planning, booking, and managing travel arrangements for individuals and organizations. By leveraging modern technology and intuitive user interfaces, the TMS aims to simplify the complexities of travel planning while providing users with greater flexibility, convenience, and control over their travelplans.
 
 # Database Schema
 ## Tables and Their Contents
